@@ -35,6 +35,7 @@ dependencies:
   - isort
   - pytest
   - pytest-cov
+  - assertpy
   - toml
   # Project from source
   - pip
